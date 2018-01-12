@@ -1,3 +1,2 @@
 # hello-world
-primer proyecto
-Aprendiendo Github!!!
+Primer proyecto en Github
